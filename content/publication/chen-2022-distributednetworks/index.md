@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:22.577190Z'
+publishDate: '2022-08-19T21:40:10.480569Z'
 publication_types:
 - '2'
 abstract: Future networks are expected to support cross-domain, cost-aware and fine-grained

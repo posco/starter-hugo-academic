@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:37.599640Z'
+publishDate: '2022-08-19T21:40:13.939618Z'
 publication_types:
 - '1'
 abstract: ''
@@ -39,5 +39,5 @@ publication: '*2017 14th International Symposium on Pervasive Systems, Algorithm
   and Networks & 2017 11th International Conference on Frontier of Computer Science
   and Technology & 2017 Third International Symposium of Creative Computing (ISPAN-FCST-ISCC)*'
 doi: 10.1109/ISPAN-FCST-ISCC.2017.24
-url_pdf: https://www.poscotso.com/wp-content/uploads/2019/02/protect.pdf
+url_pdf: /publication/docs/protect.pdf
 ---

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:45.850250Z'
+publishDate: '2022-08-19T21:40:15.228424Z'
 publication_types:
 - '2'
 abstract: Nowadays, Internet-of-Things (IoT) devices generate data at high speed and
@@ -52,5 +52,5 @@ abstract: Nowadays, Internet-of-Things (IoT) devices generate data at high speed
   for small jobs but becomes more significant for large jobs, up to 28.6%.
 publication: '*Electronics*'
 doi: 10.3390/electronics5020029
-url_pdf: https://www.poscotso.com/wp-content/uploads/2016/06/electronics-05-00029.pdf
+url_pdf: /publication/docs/electronics-05-00029.pdf
 ---

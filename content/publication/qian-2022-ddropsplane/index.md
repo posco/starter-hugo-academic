@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:22.435529Z'
+publishDate: '2022-08-19T21:40:10.321515Z'
 publication_types:
 - '2'
 abstract: Silent packet drops are common in data center networks, and are a major

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:23.387677Z'
+publishDate: '2022-08-19T21:40:10.791300Z'
 publication_types:
 - '1'
 abstract: Dynamic service function chains (SFC) are enabled by network function virtualization

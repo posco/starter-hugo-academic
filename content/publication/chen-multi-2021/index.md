@@ -33,11 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:25.202908Z'
+publishDate: '2022-08-19T21:40:11.251904Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Transactions on Vehicular Technology *'
 doi: 10.1109/TVT.2021.3094273
-url_pdf: http://www.poscotso.com/wp-content/uploads/2021/12/Multi-Agent_Reinforcement_Learning_Based_3D_Trajectory_Design_in_Aerial-Terrestrial_Wireless_Caching_Networks.pdf
+url_pdf: /publication/docs/Multi-Agent_Reinforcement_Learning_Based_3D_Trajectory_Design_in_Aerial-Terrestrial_Wireless_Caching_Networks.pdf
 ---

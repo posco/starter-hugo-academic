@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:29:10.589929Z'
+publishDate: '2022-08-19T21:40:20.366589Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Mobile Adhoc and Sensor Systems (MASS)*'
 doi: 10.1109/MOBHOC.2006.278652
-url_pdf: https://www.poscotso.com/wp-content/uploads/2016/03/han-2006.pdf
+url_pdf: /publication/docs/han-2006.pdf
 ---

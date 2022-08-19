@@ -31,11 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:29:12.275924Z'
+publishDate: '2022-08-19T21:40:20.526250Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Networks*'
 doi: 10.4304/jnw.1.5.1-8
-url_pdf: https://www.poscotso.com/wp-content/uploads/2016/03/jnw-jia.pdf
+url_pdf: /publication/docs/jnw-jia.pdf
 ---

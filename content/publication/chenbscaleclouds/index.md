@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:23.098192Z'
+publishDate: '2022-08-19T21:40:10.649638Z'
 publication_types:
 - '1'
 abstract: With the ever-growing demand for low-latency network applications, edge

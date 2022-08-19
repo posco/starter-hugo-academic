@@ -32,11 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:28:55.188752Z'
+publishDate: '2022-08-19T21:40:16.750476Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*The First International Workshop on Resource Management of Cloud Computing
   (Co-located with ICDCS 2013)*'
-url_pdf: https://www.poscotso.com/wp-content/uploads/2016/03/the_glasgow_raspberry_pi_cloud_a_scale_model_for_cloud_computing_infrastructures.pdf
+url_pdf: /publication/docs/the_glasgow_raspberry_pi_cloud_a_scale_model_for_cloud_computing_infrastructures.pdf
 ---

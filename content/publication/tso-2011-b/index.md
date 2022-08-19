@@ -34,11 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-19T19:29:02.952367Z'
+publishDate: '2022-08-19T21:40:18.556264Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*IEEE International Conference on Computer Communications (INFOCOM)*'
 doi: 10.1109/INFCOM.2011.5935309
-url_pdf: https://www.poscotso.com/wp-content/uploads/2016/03/tso2011dragonnet.pdf
+url_pdf: /publication/docs/tso2011dragonnet.pdf
 ---
