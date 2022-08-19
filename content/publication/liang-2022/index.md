@@ -37,5 +37,5 @@ publication_types:
 abstract: ''
 publication: '*Journal of Systems Architecture*'
 doi: 10.1016/j.sysarc.2022.102405
-url_pdf: https://www.poscotso.com/wp-content/uploads/2022/01/SFC_MEC_Liang.pdf
+url_pdf: publication/docs/SFC_MEC_Liang.pdf
 ---
