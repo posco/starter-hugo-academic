@@ -75,8 +75,9 @@ I am Senior Lecturer (Associate Professor) in the Department of Computer Science
 
 My research has been mainly funded by The Engineering and Physical Sciences Research Council (EPSRC) and Innovate UK include:
 
-- IEoT: Intelligent Edge of Things, 07/2020-06/2022, £972,750
-- SYNC: Synergistic Network Policy Management for Cloud Data Centres, 4/2017-3/2018. http://www.sync-project.com, £100,786
-- Fruit: The Federated Raspberry Pi Micro-infrastructure Testbed, 1/2017-12/2018. https://fruit-testbed.org, £909,548 
+- Serverless Edge Computing for 5G Edge Devices (Innovate UK), £499,223
+- IEoT: Intelligent Edge of Things, 07/2020-06/2022 (Innovate UK), £972,750
+- SYNC: Synergistic Network Policy Management for Cloud Data Centres (EPSRC), 4/2017-3/2018. http://www.sync-project.com, £100,786
+- Fruit: The Federated Raspberry Pi Micro-infrastructure Testbed (EPSRC), 1/2017-12/2018. https://fruit-testbed.org, £909,548 
 
 I am accepting self-funded PhD student applications (including CSC studentship). If you’re interested in doing a PhD with me, please get in touch! 
